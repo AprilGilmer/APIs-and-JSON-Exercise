@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World");
+            QuoteGenerator.KanyeQuote();
+            Console.WriteLine($"---------------------------------");
+
+            QuoteGenerator.RonQuote();
+            Console.WriteLine($"---------------------------------");
         }
     }
 }

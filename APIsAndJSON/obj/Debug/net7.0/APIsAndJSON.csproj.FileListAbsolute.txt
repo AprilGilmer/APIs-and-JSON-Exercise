@@ -1,0 +1,17 @@
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net7.0\APIsAndJSON.csproj.AssemblyReference.cache
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net7.0\APIsAndJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net7.0\APIsAndJSON.AssemblyInfoInputs.cache
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net7.0\APIsAndJSON.AssemblyInfo.cs
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net7.0\APIsAndJSON.csproj.CoreCompileInputs.cache
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net7.0\APIsAndJSON.exe
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net7.0\APIsAndJSON.deps.json
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net7.0\APIsAndJSON.runtimeconfig.json
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net7.0\APIsAndJSON.dll
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net7.0\APIsAndJSON.pdb
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net7.0\APIsAndJSON.csproj.CopyComplete
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net7.0\APIsAndJSON.dll
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net7.0\refint\APIsAndJSON.dll
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net7.0\APIsAndJSON.pdb
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net7.0\APIsAndJSON.genruntimeconfig.cache
+C:\Users\gilme\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net7.0\ref\APIsAndJSON.dll
